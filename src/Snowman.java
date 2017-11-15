@@ -1,4 +1,4 @@
-import javafx.scene.shape.Circle;
+/*import javafx.scene.shape.Circle;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -12,8 +12,7 @@ public class Snowman {
 
     public void Join (int count, int max, int min){
         Random random = new Random();
-        int head = min;
-        height = 0;
+        int head = min;height = 0;
         width = min;
         for (i = 0; i < count; i++){
             int radius = random.nextInt(max - min) + min;
@@ -26,4 +25,4 @@ public class Snowman {
 
     }
 
-}
+}*/
